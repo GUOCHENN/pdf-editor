@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 打包产物(exe 放在 GitHub Releases 里下载,不进仓库)
+build/
+dist/
+dist_new/
+*.spec
+
+# 测试输出
+tests/_out_ui/
